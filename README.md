@@ -78,6 +78,14 @@ This repository accompanies ["HERMES: Towards Efficient and Verifiable Mathemati
   </tr>
 </table>
 
-## Implementation and documentation will be released soon. Stay tuned!
+## Implementation Details
+Implementation and documentation will be released soon. Stay tuned!
+
+## Bibtex Citation
+```bibtex
+@misc{
+  ...
+}
+```
 
 
