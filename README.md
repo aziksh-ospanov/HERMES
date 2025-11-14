@@ -2,10 +2,10 @@
 
 ![Hermes Logo](assets/hermes_logo.png)
 
-Azim Ospanov <sup>1</sup><sup>2</sup>, Farzan Farnia <sup>2</sup>, Jiacheng Sun <sup>1</sup>, Haoli Bai <sup>1</sup>, Xin Shen <sup>3</sup>, Zijin Feng <sup>1</sup>
+Azim Ospanov <sup>1,</sup><sup>2</sup>, Farzan Farnia <sup>2</sup>, Jiacheng Sun <sup>1</sup>, Haoli Bai <sup>1</sup>, Xin Shen <sup>3</sup>, Zijin Feng <sup>1</sup>
 
 
-<sup>1</sup> <sub>**Noah's Ark Lab** ; </sub> <sup>2</sup> <sub>**The Chinese University of Hong Kong** ; </sub> <sup>3</sup> <sub>**Celia Team**</sub>
+<sup>1</sup> <sub>**Noah's Ark Lab**, </sub> <sup>2</sup> <sub>**The Chinese University of Hong Kong**, </sub> <sup>3</sup> <sub>**Celia Team**</sub>
 
 ## Overview 
 This repository accompanies ["HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs"]() work published on Arxiv. The codebase contains the agent implemented with LangChain and additional documentation on how to set it up with Lean4. The high-level overview of the method is below:
@@ -77,5 +77,7 @@ This repository accompanies ["HERMES: Towards Efficient and Verifiable Mathemati
     <td><b>91.2</b> </td><td> <b>30.0</b> </td><td> <b>73.0</b> </td><td> <b>6.6</b> </td><td> <b>97.2</b> </td><td> <b>86.7</b> </td><td> <b>78.9</b> </td><td> <b>31.3</b> </td><td> <b>97.4</b> </td><td> <b>66.7</b> </td><td> <b>83.3</b> </td><td> <b>30.3</b> </td>
   </tr>
 </table>
+
+## Implementation and documentation will be released soon. Stay tuned!
 
 
