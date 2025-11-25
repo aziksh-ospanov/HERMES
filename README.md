@@ -83,8 +83,14 @@ Implementation and documentation will be released soon. Stay tuned!
 
 ## Bibtex Citation
 ```bibtex
-@misc{
-  ...
+@misc{ospanov2025hermesefficientverifiablemathematical,
+      title={HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs}, 
+      author={Azim Ospanov and Zijin Feng and Jiacheng Sun and Haoli Bai and Xin Shen and Farzan Farnia},
+      year={2025},
+      eprint={2511.18760},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.18760}, 
 }
 ```
 
